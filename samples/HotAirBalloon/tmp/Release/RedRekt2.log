@@ -1,0 +1,19 @@
+﻿  Trainer.cpp
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(45,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(46,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(47,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(62,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(62,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(62,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(214,70): warning C4244: 'argument': conversion from 'float' to 'Any', possible loss of data
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(493,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(549,11): warning C4101: 'Entity_Type': unreferenced local variable
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(752,81): warning C4244: 'argument': conversion from 'float' to 'Any', possible loss of data
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(752,67): warning C4244: 'argument': conversion from 'float' to 'Any', possible loss of data
+D:\win back\RedRekt2\samples\RedRekt2\Trainer.cpp(752,53): warning C4244: 'argument': conversion from 'float' to 'Any', possible loss of data
+  Generating code
+  2 of 447 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RedRekt2.vcxproj -> D:\win back\RedRekt2\samples\RedRekt2\bin\Release\RedRekt2.asi

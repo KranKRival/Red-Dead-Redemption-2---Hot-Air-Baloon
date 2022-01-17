@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (tmp\Release\) contains files shared from another project (RedRekt2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  script.cpp
+D:\win back\HotAirBaloon\samples\HotAirBalloon\script.cpp(725,26): warning C4244: 'argument': conversion from 'double' to 'uint16_t', possible loss of data
+D:\win back\HotAirBaloon\samples\HotAirBalloon\script.cpp(729,26): warning C4244: 'argument': conversion from 'double' to 'uint16_t', possible loss of data
+D:\win back\HotAirBaloon\samples\HotAirBalloon\script.cpp(959,28): warning C4244: 'argument': conversion from 'float' to 'Cam', possible loss of data
+D:\win back\HotAirBaloon\samples\HotAirBalloon\script.cpp(727,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\win back\HotAirBaloon\samples\HotAirBalloon\Trainer.cpp(183): warning C4172: returning address of local variable or temporary: Buffer
+D:\win back\HotAirBaloon\samples\HotAirBalloon\script.cpp(495): warning C4172: returning address of local variable or temporary: Bufferout
+D:\win back\HotAirBaloon\samples\HotAirBalloon\script.cpp(696): warning C4715: 'Run': not all control paths return a value
+D:\win back\HotAirBaloon\samples\HotAirBalloon\Functions.cpp(21): warning C4172: returning address of local variable or temporary: returnvalue
+D:\win back\HotAirBaloon\samples\HotAirBalloon\Functions.cpp(120): warning C4172: returning address of local variable or temporary: buffer
+  All 550 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HotAirBalloon.vcxproj -> D:\win back\HotAirBaloon\samples\HotAirBalloon\bin\Release\HotAirBalloon.asi
